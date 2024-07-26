@@ -1,4 +1,4 @@
-# Raster_Connected_Components_Cleaner_Python
+# Raster_Connected_Components_Cleaner_Python [Incomplete]
 A Python script to remove small connected components in raster files.
 
 **Google Colab: ** https://colab.research.google.com/drive/1yuioqz0zWc3-HoyptlijYgRQflc_k5x2?usp=sharing
